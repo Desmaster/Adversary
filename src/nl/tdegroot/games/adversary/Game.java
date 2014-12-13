@@ -1,8 +1,9 @@
 package nl.tdegroot.games.adversary;
 
-import nl.tdegroot.games.adversary.gfx.Screen;
-import nl.tdegroot.games.adversary.gfx.SpriteSheet;
-import nl.tdegroot.games.adversary.gfx.Window;
+import nl.tdegroot.games.pixxel.Keyboard;
+import nl.tdegroot.games.pixxel.gfx.Screen;
+import nl.tdegroot.games.pixxel.gfx.SpriteSheet;
+import nl.tdegroot.games.pixxel.gfx.Window;
 
 public class Game implements Runnable {
 
